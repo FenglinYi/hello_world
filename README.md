@@ -1,2 +1,2 @@
 # hello_world
-just practice
+Record some code in the process of learning C++
